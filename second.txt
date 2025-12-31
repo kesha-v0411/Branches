@@ -1,0 +1,8 @@
+//How to Push Data second branch
+ git push -u origin [branch name]
+
+// how to merge temp[branch] in main branch
+
+git switch main
+     wait.....
+git merge [Branch Name] 
