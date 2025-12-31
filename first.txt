@@ -1,7 +1,13 @@
 //How to make new branch
 git branch [Branch Name]
 
-// How to switch main branch to [Branch Name]
+//How to switch one branch to other branch
+git checkout/switch [branch name]
+
+// How to create and switch main branch to [Branch Name] with one command
 git checkout -b [Branch name]
       or
 git switch -c [Branch Name]
+
+// How to delete branch
+ git checkout/switch -D [Branch Name]
