@@ -1,0 +1,7 @@
+//How to make new branch
+git branch [Branch Name]
+
+// How to switch main branch to [Branch Name]
+git checkout -b [Branch name]
+      or
+git switch -c [Branch Name]
