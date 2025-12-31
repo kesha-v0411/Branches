@@ -9,5 +9,5 @@ git checkout -b [Branch name]
       or
 git switch -c [Branch Name]
 
-// How to delete branch
- git checkout/switch -D [Branch Name]
+// How to Delete branch
+ git branch -D [Branch Name]
